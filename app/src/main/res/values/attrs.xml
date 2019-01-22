@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CloudView">
+        <attr name="cv_during" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="VerticalMenuView">
+        <attr name="padding" format="dimension"/>
+        <attr name="vm_during" format="integer"/>
+    </declare-styleable>
+</resources>
