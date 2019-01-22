@@ -1,0 +1,2 @@
+# CircleAnimationAndVerMenuLayout
+一个圆形散开动画，并且icon可点击/一个垂直平均布局layout，item也可以点击
