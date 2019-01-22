@@ -1,7 +1,7 @@
 # CircleAnimationAndVerMenuLayout
 一个圆形散开动画，并且icon可点击/一个垂直平均布局layout，item也可以点击
 
-![](https://raw.githubusercontent.com/machao0727/CircleAnimationAndVerMenuLayout/master/simplegif/GIF.gif)
+![](https://raw.githubusercontent.com/machao0727/AnimationView/master/simplegif/GIF.gif)
 
 USE
 ====
